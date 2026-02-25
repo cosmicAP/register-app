@@ -14,7 +14,7 @@
 
     <artifactId>webapp</artifactId>
     <packaging>war</packaging>
-    <n>Webapp</n>
+    <name>Webapp</name>
 
     <properties>
         <maven.compiler.source>8</maven.compiler.source>
